@@ -9,8 +9,6 @@ This is a project designed to test the speed of Rust processing capabilities. Cu
 
 <br />
 <br />
-<br />
-<br />
 
 
 
