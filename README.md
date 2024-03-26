@@ -1,11 +1,16 @@
-#ABOUT:
+ABOUT:
 =======
 
 
 This is a project designed to test the speed of Rust processing capabilities. Currently, the project has two modules- one parses XML to JSON, the other parses JSON to XML. The results are still being tweaked as some extra elements are added sometimes, and I'd like to be able to preserve the JSON's order after parsing.
 
 
-#USAGE:
+
+
+USAGE:
+=======
+
+
 
 ![Image 3-25-24 at 7 56 PM](https://github.com/nightgla55/rxml/assets/38857821/94a633c8-58a9-47c4-bef2-479b56fa5f7d)
 
