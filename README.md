@@ -7,8 +7,16 @@ This is a project designed to test the speed of Rust processing capabilities. Cu
 
 
 
+
+
+
+
 USAGE:
 =======
+
+
+
+
 
 
 
@@ -19,6 +27,11 @@ Here is an example of processing the SWISS-PROT Protein Sequence [XML Data Repos
 
 
 ![Image 3-25-24 at 8 14 PM 2](https://github.com/nightgla55/rxml/assets/38857821/6bbcdd20-2d07-4c0e-91ab-62793d9ae9cd)
+
+
+
+
+
 
 
 The first timed process is without writing to a file with json.dumps(), the second with. As can be seen, there is significant overhead induced when writing to a file, as expected. Maybe this can be a later feature of the project to further speed it up!
