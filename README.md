@@ -17,6 +17,8 @@ USAGE:
 
 Here is an example of processing the SWISS-PROT Protein Sequence [XML Data Repository](https://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#SwissProt), its file size is about 110MB:
 
-<img width="728" alt="Screen Shot 2024-03-25 at 6 59 10 PM" src="https://github.com/nightgla55/rxml/assets/38857821/88d174a6-b7f7-4eb1-b745-c4b6a603cf6e">
+
+![Image 3-25-24 at 8 14 PM 2](https://github.com/nightgla55/rxml/assets/38857821/6bbcdd20-2d07-4c0e-91ab-62793d9ae9cd)
+
 
 The first timed process is without writing to a file with json.dumps(), the second with. As can be seen, there is significant overhead induced when writing to a file, as expected. Maybe this can be a later feature of the project to further speed it up!
