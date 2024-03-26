@@ -23,11 +23,11 @@ USAGE:
 ![Image 3-25-24 at 7 56 PM](https://github.com/nightgla55/rxml/assets/38857821/94a633c8-58a9-47c4-bef2-479b56fa5f7d)
 
 
-### The output needs to be tweaked. If there is no explicitly declared root, a null root is added with the XML
-  
-  
-  
-Here is an example of processing the SWISS-PROT Protein Sequence [XML Data Repository](https://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#SwissProt), its file size is about 110MB:
+The output needs to be tweaked. If there is no explicitly declared root, a null root is added with the XML
+  <br />
+  <br />
+  <br />
+### Here is an example of processing the SWISS-PROT Protein Sequence [XML Data Repository](https://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#SwissProt), its file size is about 110MB:
 
 
 ![Image 3-25-24 at 8 14 PM 2](https://github.com/nightgla55/rxml/assets/38857821/6bbcdd20-2d07-4c0e-91ab-62793d9ae9cd)
