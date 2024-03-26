@@ -2,7 +2,7 @@ ABOUT:
 =======
 
 
-This is a project designed to test the speed of Rust processing capabilities. Currently, the project has two modules- one parses XML to JSON, the other parses JSON to XML. The results are still being tweaked as some extra elements are added sometimes, and I'd like to be able to preserve the JSON's order after parsing.
+This is a project designed to test the speed of Rust processing capabilities. Currently, the project has two modules- one parses XML to JSON, the other parses JSON to XML. The results are still being tweaked as some extra elements are added sometimes, and I'd like to be able to preserve the JSON's order after parsing. The currently supplied .whl was compiled with `maturin build`, and compiled on a raspberry pi inside a python3 venv- no guarantees of compatability are made. The wheel may be downloaded and then installed locally with `pip install /path/to/wheel`.
 
 
 
